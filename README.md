@@ -1,6 +1,6 @@
 ## >Hi, I am Godsent!_
 
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2182022)](https://tryhackme.com/p/2182022)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/Sentryyyy.png" alt="Your Image Badge" />](https://tryhackme.com/p/Sentryyyy)
 
 
 <!--
