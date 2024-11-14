@@ -1,4 +1,5 @@
 ## >Hi, I am Godsent!_
+Information Security Hobbyist | IoT Enthusiast
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Sentryyyy.png" alt="Your Image Badge" />](https://tryhackme.com/p/Sentryyyy)
 
