@@ -1,7 +1,7 @@
 ## >Hi, I am Godsent!_
 Information Security | Internet of Things | Web Development
 
-[![Sentryy](https://tryhackme-badges.s3.amazonaws.com/Sentryyyy.png?update=2)](https://tryhackme.com/p/Sentryyyy)
+[![Sentryy](https://tryhackme-badges.s3.amazonaws.com/Sentryyyy.png?update=1)](https://tryhackme.com/p/Sentryyyy)
 
 
 
