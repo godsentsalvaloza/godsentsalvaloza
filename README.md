@@ -1,4 +1,4 @@
-<h1 align="left">>Hi, I am Godsent!_</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70000&width=435&lines=%3EHi%2C+I+am+Godsent!_;%3EAlso+known+as+%22Sentry%22_)](https://git.io/typing-svg)
 
 ###
 
