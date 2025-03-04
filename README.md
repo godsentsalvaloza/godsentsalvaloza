@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display+&weight=600&size=30&duration=6000&pause=1000&color=F71313&width=435&height=55&lines=%3EHi%2C+I+am+Godsent!_)](https://git.io/typing-svg)
 
-<h4 align="left">Information Security | Web Development</h4>
+<h2 align="left">Information Security | Web Development</h2>
+<ul>
+  <li>Accumulated 50+ training hours on Microsoft Learn</li>
+  <li>Accumulated 10+ training hours on MonkeyType</li>
+  <li>Ranked in the top 6 percentile on TryHackMe</li>
+</ul>
 
 ###
 
