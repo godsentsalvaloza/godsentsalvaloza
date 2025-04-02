@@ -3,6 +3,7 @@
 <h2 align="left">Information Security | Web Development</h2>
 <ul>
   <li>Ranked in the top 6 percentile on TryHackMe</li>
+  <li>Accumulated 20+ badges at Credly</li>
   <li>Accumulated 50+ training hours on Microsoft Learn</li>
   <li>Ranked in the top 4 percentile and accumulated 15+ training hours on MonkeyType</li>
 </ul>
