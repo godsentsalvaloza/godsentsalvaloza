@@ -78,12 +78,19 @@
 ###
 
 <div align="left">
-  <a href="https://tryhackme.com/r/p/Sentryyyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/sentryy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
+  <ul>
+        <li><a href="https://www.credly.com/users/godsentsalvaloza/">Credly</a></li>
+        <br>
+        <li><a href="https://www.datacamp.com/portfolio/sentryy">DataCamp</a></li>
+        <br>
+        <li><a href="https://www.hackerrank.com/profile/sentryy">HackerRank</a></li>
+        <br>
+        <li><a href="https://learn.microsoft.com/users/godsentry/">Microsoft Learn</a></li>
+        <br>
+        <li><a href="https://monkeytype.com/profile/sentryy">MonkeyType</a></li>
+        <br>
+        <li><a href="https://tryhackme.com/r/p/Sentryyyy">TryHackMe</a></li>
+    </ul>
 </div>
 
 ###
