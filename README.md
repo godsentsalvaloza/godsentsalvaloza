@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Microsoft%20Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
   <a href="https://monkeytype.com/profile/sentryy" target="_blank">
-    <img src="https://img.shields.io/badge/MonkeyType-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/MonkeyType-F7DF1E?style=for-the-badge&logo=microsoft&logoColor=black" />
   </a>
   <a href="https://tryhackme.com/r/p/Sentryyyy" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
