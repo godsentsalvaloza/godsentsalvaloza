@@ -80,8 +80,6 @@
 
 ## 🌐 Socials & Profiles  
 
-## 🌐 Socials & Profiles  
-
 <p align="left">
   <a href="https://www.credly.com/users/godsentsalvaloza/" target="_blank">
     <img src="https://img.shields.io/badge/Credly-%23FF6F00.svg?style=for-the-badge&logo=credly&logoColor=white" />
