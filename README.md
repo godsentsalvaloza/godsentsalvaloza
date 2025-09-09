@@ -80,6 +80,8 @@
 
 ## 🌐 Socials & Profiles  
 
+## 🌐 Socials & Profiles  
+
 <p align="left">
   <a href="https://www.credly.com/users/godsentsalvaloza/" target="_blank">
     <img src="https://img.shields.io/badge/Credly-%23FF6F00.svg?style=for-the-badge&logo=credly&logoColor=white" />
@@ -99,7 +101,11 @@
   <a href="https://tryhackme.com/r/p/Sentryyyy" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
+  <a href="https://www.linkedin.com/in/godsent-john-salvaloza-14ab84378/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 
 ###
