@@ -78,20 +78,28 @@
 
 ###
 
-<div align="left">
-  <ul>
-        <li><a href="https://www.credly.com/users/godsentsalvaloza/">Credly</a></li>
-        <br>
-        <li><a href="https://www.datacamp.com/portfolio/sentryy">DataCamp</a></li>
-        <br>
-        <li><a href="https://www.hackerrank.com/profile/sentryy">HackerRank</a></li>
-        <br>
-        <li><a href="https://learn.microsoft.com/users/godsentry/">Microsoft Learn</a></li>
-        <br>
-        <li><a href="https://monkeytype.com/profile/sentryy">MonkeyType</a></li>
-        <br>
-        <li><a href="https://tryhackme.com/r/p/Sentryyyy">TryHackMe</a></li>
-    </ul>
-</div>
+## 🌐 Socials & Profiles  
+
+<p align="left">
+  <a href="https://www.credly.com/users/godsentsalvaloza/" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-%23FF6F00.svg?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  <a href="https://www.datacamp.com/portfolio/sentryy" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sentryy" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/users/godsentry/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+  <a href="https://monkeytype.com/profile/sentryy" target="_blank">
+    <img src="https://img.shields.io/badge/MonkeyType-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://tryhackme.com/r/p/Sentryyyy" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+</p>
+
 
 ###
