@@ -2,11 +2,11 @@
 
 <h2 align="left">Information Security | Web Development</h2>
 <ul>
-  <li>Certified in AI Fundamentals and Data Literacy at Datacamp. Accumulated 170,000+ points</li>
+  <li>Certified in AI Fundamentals and Data Literacy at Datacamp. Accumulated 200,000+ points</li>
   <li>Ranked in the top 6 percentile at TryHackMe</li>
-  <li>Accumulated 25+ badges at Credly</li>
+  <li>Accumulated 30+ badges at Credly</li>
   <li>Accumulated 50+ training hours at Microsoft Learn</li>
-  <li>Ranked in the top 3 percentile and accumulated 40+ training hours at MonkeyType</li>
+  <li>Ranked in the top 3 percentile and accumulated 50+ training hours at MonkeyType</li>
 </ul>
 
 ###
