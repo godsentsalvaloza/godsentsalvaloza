@@ -2,16 +2,12 @@
 
 <h2 align="left">Information Security | Web Development</h2>
 <ul>
-  <li>Certified in AI Fundamentals and Data Literacy at Datacamp. Accumulated 300,000+ points</li>
-  <li>Ranked in the top 5 percentile at TryHackMe</li>
+  <li>Certified in AI Fundamentals and Data Literacy at Datacamp. Accumulated 320,000+ points</li>
+  <li>Ranked in the top 4 percentile at TryHackMe</li>
   <li>Accumulated 30+ badges at Credly</li>
   <li>Accumulated 50+ training hours at Microsoft Learn</li>
-  <li>Ranked in the top 3 percentile and accumulated 65+ training hours at MonkeyType</li>
+  <li>Ranked in the top 3 percentile and accumulated 70+ training hours at MonkeyType</li>
 </ul>
-
-###
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sentryyyy.png" alt="Your Image Badge" />
 
 ###
 
