@@ -1,14 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display+&weight=600&size=30&duration=6000&pause=1000&color=F71313&width=435&height=55&lines=%3EHi%2C+I+am+Godsent!_)](https://git.io/typing-svg)
 
-<h2 align="left">Information Security | Web Development</h2>
-<ul>
-  <li>Certified in AI Fundamentals and Data Literacy at Datacamp. Accumulated 320,000+ points</li>
-  <li>Ranked in the top 4 percentile at TryHackMe</li>
-  <li>Accumulated 30+ badges at Credly</li>
-  <li>Accumulated 50+ training hours at Microsoft Learn</li>
-  <li>Ranked in the top 3 percentile and accumulated 70+ training hours at MonkeyType</li>
-</ul>
-
 ###
 
 <h4 align="left">Languages</h4>
